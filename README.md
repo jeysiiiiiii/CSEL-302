@@ -17,7 +17,7 @@
 
 ## Topic Discussed
 
-- **DEMISTIFYING AI AND INTRODUCTION TO INTELLIGENT AGENTS (Lesson 1) -** This topic inroduces us to the famous Artificial Intelligent. Sir discusses the history and the use of AI. Another is the Intelligent Agents that is related to the AI too, it's characteristics and types are part of this topic. 
+- **DEMISTIFYING AI AND INTRODUCTION TO INTELLIGENT AGENTS (Lesson 1) -** This topic introduced us to the famous Artificial Intelligent. Sir discusses the history and the use of AI. Another is the Intelligent Agents that is related to the AI too, it's characteristics and types are part of this topic. 
 - **DATA ANALYSIS AND VISUALIZATION (Lesson 2) -** In this lecture, we are taught the different ways of data handling, from data collection, data preprocessing, EDA, data Processing techniques, and different data vusualization.  
 - **PROBABILITY AND STATISTICS (Lesson 3) -** Computing the probability is the thing that we learned here with Sir Bernardino. Sir taught us first how to solve manually and then on the laboratory, he taught us the automatic way. 
 - **LINEAR REGRESSION (Lesson 4) -** The whole concept of linear regression was taught to us by Sir here. What is linear regression and its types, also what are its application and how to code it to automatically get the regression. 
