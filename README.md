@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-- Welcome to my site!! In here, you are going to see the compilation of all of the exercises including the midterm activity that was tasked to do to us by our professor which is Mr. Bernardino. I will also Include here some informations and pictures of what are the topics that Sir Bernardino taught to us during lecture hours and before the laboratory hours. 
+- Welcome to my site!! In here, you are going to see the compilation of all of the exercises including the midterm activity that was tasked to do to us by our professor which is Mr. Bernardino. I will also Include here some informations and pictures of what are the topics that Sir Bernardino taught to us during lecture hours and before the laboratory hours. You will be able to see in this compilation the things I learned each topic and how did I apply it on every activity.
 
 ## Table Of Contents
 
