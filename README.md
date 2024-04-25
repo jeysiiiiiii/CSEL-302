@@ -22,6 +22,8 @@
 - **LOGISTIC REGRESSION (Lesson 5) -** Just like on the linear, the whole concept of logistic regression was taught to us by Sir here. Its application and how to code it to automatically get the regression also got discussed 
 
 ## Sample Pictures of the Lessons (PPT)
+Lesson 1:
+<img src="Images/" >
 
 ## Links of the Solo Exercises
 1. <a href="2A_LEDESMA_EXER4.ipynb">2A_LEDESMA_EXER4</a>
