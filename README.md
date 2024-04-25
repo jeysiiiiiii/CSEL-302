@@ -63,7 +63,7 @@
 
 ## Conclusion
 
-- Overall, I learned a lot during the half of the this semester and this compilation proves it. As you can see on this compilation, I finished each of it with such detail. To be honest, some of it are hard and quite confusing but I promise that you will get the hang of it after applying it. This was not easy but it is very worth it when you tried and finished it. From the introduction of AI to the logistic regression, it was all informative. I believe these informations will be able to help us students once we move up to highler level, it will be very useful. 
+- Overall, I learned a lot during the half of the semester and this compilation proves it. As you can see on this compilation, I finished each of the activities including the midterms with such detail. To be honest, some of it are hard and quite confusing but I promise that you will get the hang of it after applying it. This was not easy but it is very worth it when you tried and finished it. From the introduction of AI to the logistic regression, it was all informative. I believe these informations will be able to help us students once we move up to highler level, it will be very useful. 
 
 
 
