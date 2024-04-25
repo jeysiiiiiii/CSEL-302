@@ -23,7 +23,15 @@
 
 ## Sample Pictures of the Lessons (PPT)
 Lesson 1:
-<img src="Images/" >
+<img src="Images/Screenshot 2024-04-25-162952.png" >
+Lesson 2:
+<img src="Images/Screenshot 2024-04-25-163401.png" >
+Lesson 3:
+<img src="Images/Screenshot 2024-04-25-163626.png" >
+Lesson 4:
+<img src="Images/Screenshot 2024-04-25-163853.png" >
+Lesson 5:
+<img src="Images/Screenshot 2024-04-25-164412.png" >
 
 ## Links of the Solo Exercises
 1. <a href="2A_LEDESMA_EXER4.ipynb">2A_LEDESMA_EXER4</a>
